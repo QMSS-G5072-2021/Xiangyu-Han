@@ -7,4 +7,4 @@ Homework 6: Writing unit tests
 Homework 7: Writing a Python Package
 Homework 8: Writing a simple API client
 Homework 9: Practicing SQL Queries
-Final Project: Writing an interesting API function
+Final Project: Writing an interesting API function 
